@@ -16,8 +16,8 @@
     <ul>
     <li><a href="https://www.seriouseats.com/recipes/images/20101215-ham-tasting-primary.jpeg">Ham</a></li>
     <li><a href="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/10/4/1/FNM_110110-Basic-Turkey-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1381170719103.jpeg">Turkey</a></li>
-    <li><a href="https://www.simplyrecipes.com/recipes/roasted_chicken_with_apricot_glaze/">Chicken</a></li>
-    <li><a href="https://www.delish.com/cooking/recipe-ideas/a19665822/best-grilled-pork-chops-recipe/">Pork</a></li>
+    <li><a href="https://www.simplyrecipes.com/wp-content/uploads/2015/09/roasted-chicken-apricot-glaze-horiz-a-1500.jpg">Chicken</a></li>
+    <li><a href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grilled-pork-chops-horizontal-jpg-1522720544.jpg?crop=1xw:0.7498500299940012xh;center,top&resize=768:*">Pork</a></li>
     <li><a href="http://jesspryles.com/recipe/pulled-pork/">BBQ</a></li>
     <li><a href="https://foodwishes.blogspot.com/2012/07/chicken-spiedies-is-binghamtons-best.html">Chicken Spiedie</a></li>
     <li>Beef Spiedie</li>
