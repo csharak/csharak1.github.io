@@ -22,7 +22,7 @@
     <li><a href="https://foodwishes.blogspot.com/2012/07/chicken-spiedies-is-binghamtons-best.html">Chicken Spiedie</a></li>
     <li>Beef Spiedie</li>
     <li>Lamb Spiedie</li>
-    <li><a href="http://www.myrecipes.com/recipe/true-smoked-beef-brisket">Brisket</a></li>
+    <li><a href="http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/true-smoked-beef-brisket-sl.jpg?itok=N3eMXjHL">Brisket</a></li>
     </ul>
   </div>
  <h3>Next the toppings:</h3>
