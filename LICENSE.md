@@ -10,7 +10,7 @@
     <p>This website is to create a sandwich that is to your preference and delicious</p>
   </div>
   
- <h2>First, the meats:</h2>
+ <h3>First, the meats:</h2>
   <div>
     <p>Click on your choice of meat.</p>
     <ul>
@@ -25,7 +25,7 @@
     <li><a href="http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/true-smoked-beef-brisket-sl.jpg?itok=N3eMXjHL">Brisket</a></li>
     </ul>
   </div>
- <h3>Next the toppings:</h3>
+ <h4>Next the toppings:</h3>
   <div>
     <ul>
     <li>Cheddar</li>
@@ -39,3 +39,13 @@
     <li>Roasted Peppers</li>
     </ul>
    </div>
+   <h2>First, the type of bread</h2> 
+     <div>
+     <ul>
+        <li>White Bread</li>
+        <li>Italian Bread</li>
+        <li>Whole Wheat bread</li>
+        <li>Flatbread</li>
+        <li>Brioche Bun</li>
+      </ul>
+      </div>
