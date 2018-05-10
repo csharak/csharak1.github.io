@@ -9,8 +9,16 @@
   <div>
     <p>This website is to create a sandwich that is to your preference and delicious</p>
   </div>
-  
- <h3>First, the meats:</h2>
+   <h2>First, the type of bread</h2> 
+     <div>
+     <ul>
+        <li>White Bread</li>
+        <li>Italian Bread</li>
+        <li>Whole Wheat bread</li>
+        <li>Flatbread</li>
+        <li>Brioche Bun</li>
+      </ul>
+ <h3>Next, the meats:</h2>
   <div>
     <p>Click on your choice of meat.</p>
     <ul>
@@ -39,13 +47,4 @@
     <li>Roasted Peppers</li>
     </ul>
    </div>
-   <h2>First, the type of bread</h2> 
-     <div>
-     <ul>
-        <li>White Bread</li>
-        <li>Italian Bread</li>
-        <li>Whole Wheat bread</li>
-        <li>Flatbread</li>
-        <li>Brioche Bun</li>
-      </ul>
-      </div>
+   
