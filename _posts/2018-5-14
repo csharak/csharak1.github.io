@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <h1>Build a Sandwich WorkShop</h1>
+   <meta charset="utf-8">
+   <link rel="stylesheet" type="text/css">
+   </head>
+   <body>
+      <div>
+      <h2>First the Bread</h2>
+      </div>
+      <p>This website is to create a sandwich that is to your preference and delicious</p>
+      <div>
+      <ul>
+      <li>White Bread</li>
+      <li>Italian Bread</li>
+      <li>Garlic Bread</li>
+      <li>Brioche Burger Bun</li>
+      <li>Hot Dog Bun</li>
+      <li>Pita</li>
+      <li>Sourdough</li>
+      <li>Rye Bread</li>
+      <li>Whole Wheat Bread</li>
+      </ul>
+      </div>
+</html>
