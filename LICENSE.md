@@ -28,7 +28,7 @@
     <li><a href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/grilled-pork-chops-horizontal-jpg-1522720544.jpg?crop=1xw:0.7498500299940012xh;center,top&resize=768:*">Pork</a></li>
     <li><a href="http://jesspryles.com/recipe/pulled-pork/">BBQ</a></li>
     <li><a href="https://2.bp.blogspot.com/-JaHlt9LgMb8/UA3WxBvm_kI/AAAAAAAALWM/ifkJLOUxBNY/IMG_0209.JPG">Chicken Spiedie</a></li>
-    <li>Beef Spiedie</li>
+    <li><a href="csharak1.github.io/_posts/2018-5-10>Beef Spiedie</a></li>
     <li>Lamb Spiedie</li>
     <li><a href="http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/true-smoked-beef-brisket-sl.jpg?itok=N3eMXjHL">Brisket</a></li>
     </ul>
