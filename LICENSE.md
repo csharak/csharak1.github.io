@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 <head>
    <h1>Build a Sandwich WorkShop</h1>
@@ -39,12 +40,13 @@
     <li>Cheddar</li>
     <li>American Cheese</li>
     <li>Pickels</li>
-    <li>Tomatoes</li>
+       <li>Tomatoes</li>
     <li>Lettuce</li>
     <li>Onions</li>
+       
     <li>Sauteed Onions</li>
     <li>Bacon</li>
     <li>Roasted Peppers</li>
     </ul>
    </div>
-   
+   </body>
