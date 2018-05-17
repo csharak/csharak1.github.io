@@ -6,11 +6,11 @@
    <link rel="stylesheet" type="text/css">
    </head>
    <body>
-      <div>
+      <br>
       <h2>First the Bread</h2>
-      </div>
+      <br>
       <p>This website is to create a sandwich that is to your preference and delicious</p>
-      <div>
+      <br>
       <ul>
       <li>White Bread</li>
       <li>Italian Bread</li>
@@ -22,5 +22,5 @@
       <li>Rye Bread</li>
       <li>Whole Wheat Bread</li>
       </ul>
-      </div>
+      <br>
 </html>
